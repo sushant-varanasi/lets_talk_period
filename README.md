@@ -65,7 +65,7 @@ Format: ![Alt Text](url)
 
 We have added a Navbar, and have used Carousal.
 
-![GitHub Logo](/images/Picture4.png)
+![GitHub Logo](/images/Picture 4.png)
 Format: ![Alt Text](url)
 
 This is the content that is visible at the home page.
