@@ -1,7 +1,7 @@
 # lets_talk_period
 
 
-OUR IDEA
+##OUR IDEA
 
 India is a country which is home to many myths and taboos.
 Shattering the glass ceiling is the requirement of the hour if
@@ -19,7 +19,7 @@ topic.
 
 
 
-THE SOLUTION.
+##THE SOLUTION.
 
 A step has been taken in that direction; we have come up
 with a website which allows one to share their thoughts and
@@ -33,7 +33,7 @@ discuss their problems and share their experiences.
 
 
 
-THE IMPACT.
+##THE IMPACT.
 
 Many girls and women are subject to restrictions in their
 daily lives simply because they are menstruating. Not
@@ -47,62 +47,51 @@ associated with menstruation. It is further believed that
 menstruating women are unhygienic and unclean and hence
 the food they prepare or handle can get contaminated.
 
+![pic1](/images/Picture1.png)
+
 NO SCIENCE CAN EXPLAIN THESE MYTHS.
 
 THE CHANGE IS ON IT’S WAY, WE JUST HELPED CREAT A
 PATHWAY.
 
 
-OUR WEBSITE.
+##OUR WEBSITE.
 
-![pic1](/images/Picture1.png)
-
-
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![pic2](/images/Picture2.png)
 
 
 We have added a Navbar, and have used Carousal.
 
-![GitHub Logo](/images/Picture 4.png)
-Format: ![Alt Text](url)
+![pic1](/images/Picture3.png)
 
 This is the content that is visible at the home page.
 
 
-![GitHub Logo](/images/Picture 5.png)
-Format: ![Alt Text](url)
-![alt text](https://github.com/sushant-varanasi/lets_talk_period/blob/master/images/Picture5.png?raw=true)
+![pic1](/images/Picture4.png)
 
 
 There are 2 buttons: BLOG, which directs us to the blog page; and the WEBINAR LINK button which when clicked, directs us to zoom meeting.
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![pic1](/images/Picture5.png)
 
 There are 3 informative videos and a footer to conclude the home page.
 
-OUR BLOG PAGE.
+##OUR BLOG PAGE.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![pic1](/images/Picture6.png)
+![pic1](/images/Picture7.png)
+![pic1](/images/Picture8.png)
+![pic1](/images/Picture9.png)
+![pic1](/images/Picture10.png)
+![pic1](/images/Picture11.png)
 
 
 We thank you for giving us this opportunity. Solving a real world problem was an experience which we will remember for a long time surely. 
 Being given this opportunity, we feel blessed.
 
 THANKS ONCE AGAIN.
-LET’S TALK, PERIOD.
+##LET’S TALK, PERIOD.
 
 
 
