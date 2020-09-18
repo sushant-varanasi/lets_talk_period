@@ -76,10 +76,11 @@ There are 2 buttons: BLOG, which directs us to the blog page; and the WEBINAR LI
 ![pic1](/images/Picture5.png)
 
 There are 3 informative videos and a footer to conclude the home page.
+![pic1](/images/Picture6.png)
 
 ## OUR BLOG PAGE.
 
-![pic1](/images/Picture6.png)
+
 ![pic1](/images/Picture7.png)
 ![pic1](/images/Picture8.png)
 ![pic1](/images/Picture9.png)
