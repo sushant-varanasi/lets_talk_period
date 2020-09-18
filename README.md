@@ -55,7 +55,7 @@ PATHWAY.
 
 OUR WEBSITE.
 
-![](/images/Picture 1.png)
+![pic1](/images/Picture 1.png)
 
 
 
