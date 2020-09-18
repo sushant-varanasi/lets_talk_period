@@ -73,6 +73,8 @@ This is the content that is visible at the home page.
 
 ![GitHub Logo](/images/Picture 5.png)
 Format: ![Alt Text](url)
+![alt text](https://github.com/sushant-varanasi/lets_talk_period/blob/master/images/Picture 5.png?raw=true)
+
 
 There are 2 buttons: BLOG, which directs us to the blog page; and the WEBINAR LINK button which when clicked, directs us to zoom meeting.
 
