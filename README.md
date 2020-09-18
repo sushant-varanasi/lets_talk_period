@@ -1,7 +1,7 @@
 # lets_talk_period
 
 
-##OUR IDEA
+## OUR IDEA
 
 India is a country which is home to many myths and taboos.
 Shattering the glass ceiling is the requirement of the hour if
@@ -19,7 +19,7 @@ topic.
 
 
 
-##THE SOLUTION.
+## THE SOLUTION.
 
 A step has been taken in that direction; we have come up
 with a website which allows one to share their thoughts and
@@ -33,7 +33,7 @@ discuss their problems and share their experiences.
 
 
 
-##THE IMPACT.
+## THE IMPACT.
 
 Many girls and women are subject to restrictions in their
 daily lives simply because they are menstruating. Not
@@ -55,7 +55,7 @@ THE CHANGE IS ON IT’S WAY, WE JUST HELPED CREAT A
 PATHWAY.
 
 
-##OUR WEBSITE.
+## OUR WEBSITE.
 
 ![pic2](/images/Picture2.png)
 
@@ -77,7 +77,7 @@ There are 2 buttons: BLOG, which directs us to the blog page; and the WEBINAR LI
 
 There are 3 informative videos and a footer to conclude the home page.
 
-##OUR BLOG PAGE.
+## OUR BLOG PAGE.
 
 ![pic1](/images/Picture6.png)
 ![pic1](/images/Picture7.png)
@@ -91,7 +91,7 @@ We thank you for giving us this opportunity. Solving a real world problem was an
 Being given this opportunity, we feel blessed.
 
 THANKS ONCE AGAIN.
-##LET’S TALK, PERIOD.
+## LET’S TALK, PERIOD.
 
 
 
