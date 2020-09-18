@@ -1,5 +1,7 @@
 # lets_talk_period
-#OUR IDEA
+
+
+OUR IDEA
 
 India is a country which is home to many myths and taboos.
 Shattering the glass ceiling is the requirement of the hour if
@@ -15,7 +17,9 @@ towards Menstruation and general awareness about the
 topic.
 
 
-#THE SOLUTION.
+
+
+THE SOLUTION.
 
 A step has been taken in that direction; we have come up
 with a website which allows one to share their thoughts and
@@ -27,7 +31,9 @@ normalizes Menstruation and give a platform to women to
 discuss their problems and share their experiences.
 
 
-#THE IMPACT.
+
+
+THE IMPACT.
 
 Many girls and women are subject to restrictions in their
 daily lives simply because they are menstruating. Not
@@ -41,13 +47,13 @@ associated with menstruation. It is further believed that
 menstruating women are unhygienic and unclean and hence
 the food they prepare or handle can get contaminated.
 
-#NO SCIENCE CAN EXPLAIN THESE MYTHS.
+NO SCIENCE CAN EXPLAIN THESE MYTHS.
 
-#THE CHANGE IS ON IT’S WAY, WE JUST HELPED CREAT A
+THE CHANGE IS ON IT’S WAY, WE JUST HELPED CREAT A
 PATHWAY.
 
 
-#OUR WEBSITE.
+OUR WEBSITE.
 
 
 
