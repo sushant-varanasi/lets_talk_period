@@ -1,4 +1,4 @@
-# lets_talk_period
+# Let's talk, period
 
 
 ## OUR IDEA
