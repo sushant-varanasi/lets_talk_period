@@ -55,8 +55,8 @@ PATHWAY.
 
 OUR WEBSITE.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![pic1](/images/Picture 1.png)
+
 
 
 ![GitHub Logo](/images/logo.png)
@@ -65,14 +65,16 @@ Format: ![Alt Text](url)
 
 We have added a Navbar, and have used Carousal.
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/Picture 4.png)
 Format: ![Alt Text](url)
 
 This is the content that is visible at the home page.
 
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/Picture 5.png)
 Format: ![Alt Text](url)
+![alt text](https://github.com/sushant-varanasi/lets_talk_period/blob/master/images/Picture 5.png?raw=true)
+
 
 There are 2 buttons: BLOG, which directs us to the blog page; and the WEBINAR LINK button which when clicked, directs us to zoom meeting.
 
