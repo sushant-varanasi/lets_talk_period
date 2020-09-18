@@ -55,8 +55,8 @@ PATHWAY.
 
 OUR WEBSITE.
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+!(/images/Picture 1.png)
+
 
 
 ![GitHub Logo](/images/logo.png)
