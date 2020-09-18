@@ -59,5 +59,49 @@ OUR WEBSITE.
 Format: ![Alt Text](url)
 
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
+We have added a Navbar, and have used Carousal.
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+This is the content that is visible at the home page.
+
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+There are 2 buttons: BLOG, which directs us to the blog page; and the WEBINAR LINK button which when clicked, directs us to zoom meeting.
+
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+There are 3 informative videos and a footer to conclude the home page.
+
+OUR BLOG PAGE.
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+
+We thank you for giving us this opportunity. Solving a real world problem was an experience which we will remember for a long time surely. 
+Being given this opportunity, we feel blessed.
+
+THANKS ONCE AGAIN.
+LET’S TALK, PERIOD.
+
+
 
 
