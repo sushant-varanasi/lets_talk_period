@@ -71,7 +71,7 @@ Format: ![Alt Text](url)
 This is the content that is visible at the home page.
 
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/Picture 5.png)
 Format: ![Alt Text](url)
 
 There are 2 buttons: BLOG, which directs us to the blog page; and the WEBINAR LINK button which when clicked, directs us to zoom meeting.
